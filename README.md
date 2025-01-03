@@ -71,6 +71,6 @@ This project is designed to provide a solid foundation for understanding how web
 ---
 
 ## Acknowledgments  
-This project idea is sourced from [roadmap.sh](https://roadmap.sh).  
+This project idea is sourced from https://roadmap.sh/projects/basic-html-website.  
 ``` 
 
