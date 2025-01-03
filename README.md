@@ -5,7 +5,7 @@ This project is a beginner-level HTML-based portfolio, showcasing basic features
 ## Table of Contents  
 - [Introduction](#introduction)  
 - [Features](#features)  
-- [Technologies Used](technologies-used)  
+- [Technologies Used](#technologies-used)  
 - [Project Structure](#project-structure)  
 - [How to Run the Project](#how-to-run-the-project)  
 - [Why This Approach?](#why-this-approach)  
