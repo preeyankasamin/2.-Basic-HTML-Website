@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.left{
+     display: flex;   
+    flex-direction: row;  
+    padding: 10px;
+    width: 40%;
+    }
+
+.left p{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 0 0 30px;
+}
+
+nav > section> img{
+    width: 200px;
+    height: 40px;
+}
+
+
+#right{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    padding-top: 15px;
+}
+
+nav #right #right-option{
+    width: 100%;
+    height: 100%;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    
+}  
+
+#right-option a {
+    text-decoration: none; /* Removes underline */
+    color: black; /* Sets link color to black */
+    font-size: 16px;
+  }
+  
+  #right-option a:hover {
+    color: gray; /* Optional: Changes color on hover */
+    width: 100%;
+    height: 100;
+  }
+
+nav #right #right-option > li{
+    padding: 0 20px 0 20px;   
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(150, 201, 182);
+}
+
